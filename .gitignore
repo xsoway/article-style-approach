@@ -1,0 +1,7 @@
+# 本仓库只含方法论文档；如按 PROMPT 在本地生成实现，私人语料不入库
+references/sources/*
+!references/sources/README.md
+references/research/
+__pycache__/
+*.pyc
+.DS_Store
